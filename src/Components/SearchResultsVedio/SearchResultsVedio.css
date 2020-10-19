@@ -1,0 +1,40 @@
+.searchResultsVedio{
+    display: flex;
+    max-width: 700px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 8px;
+
+}
+
+.searchResultsVedio:hover{
+    background-color: #bdb8b8;
+}
+
+
+.searchResultsVedio > img{
+    object-fit: contain;
+    width: 24.6rem;
+    height: 13.8rem;
+}
+
+.searchResultsVedio__text{
+    margin-left: 1.4rem;
+}
+.searchResultsVedio__text > p{
+    margin-top: 0.5rem;
+}
+
+.searchResultsVedio__text__info{
+    font-size: 12px;
+    color: #606060;
+    font-weight: 600;
+}
+
+.searchResultsVedio__text__description{
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    color: #606060;
+}

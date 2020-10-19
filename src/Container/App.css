@@ -1,0 +1,31 @@
+.app {
+  min-width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+}
+
+.app__body{
+  display: flex;
+}
+
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar{
+  width: 5px;
+}
+
+body::-webkit-scrollbar-track{
+  background-color: #ccc;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: rgb(245, 93, 93);
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: rgb(194, 81, 81);
+}
