@@ -1,3 +1,5 @@
+# `IMPORTANT`
+  I can add authorization and vedio play on click ability i have done it in other clones i just need source for vedio
 # `APP LIVE`
   - [YT Clone](https://clone-a15ea.web.app/) 
     
